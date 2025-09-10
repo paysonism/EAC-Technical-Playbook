@@ -9,4 +9,4 @@ Click [here](https://github.com/paysonism/EAC-Technical-Playbook/blob/main/Playb
 
 # Credits
 
-Written and Published by Payson[https://github.com/paysonism]
+Written and Published by [Payson](https://github.com/paysonism)
